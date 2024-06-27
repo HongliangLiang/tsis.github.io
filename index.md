@@ -1,6 +1,6 @@
-# Trusted Software and Intelligent System Lab ($ color {red} {TSIS~Lab} $)
+# Trusted Software and Intelligent System Lab. (TSIS Lab)
 
-TSISLab aims to tap the potential of students, cultivate outstanding talents, and contribute to serving the society.
+TSIS Lab aims to tap the potential of students, cultivate outstanding talents, and contribute to serving the society.
 
 We think: Software systems are the work of people and should be their friends. They should be as correct, secure, reliable and intelligent as possible. Compared with the upper applications, the above characteristics of the fundamental software of modern computing and communication platforms are particularly important.
 
@@ -16,11 +16,11 @@ Yi Qiuping is a distinguished associate researcher, doctoral supervisor and mast
 ### Liu jie
 	Liu Jie is a doctoral student at Beijing University of Posts and Telecommunications. In 2020, he obtained a master degree from China University of Petroleum (East China); His research interests include vulnerability detection and availability analysis.
 ### Wu guohao
-	Wu Guohao is a doctoral candidate at Beijing University of Posts and Telecommunications. In 2021, he obtained a master degree from Chongqing University; His research interests include: embedded system simulation, embedded firmware vulnerability mining
+	Wu Guohao is a doctoral student at Beijing University of Posts and Telecommunications. In 2021, he obtained a master degree from Chongqing University; His research interests include: embedded system simulation, embedded firmware vulnerability mining
 ### Li zhuang
 	Li Zhuang is a doctoral student at Beijing University of Posts and Telecommunications. In 2022, he studied in the School of Computer Science, Beijing University of Posts and Telecommunications; His research interests include: black box and gray box fuzzy testing; Symbol execution; CSA
 ### Cai jinyan
-	Cai Jinyan is a doctoral candidate of Beijing University of Posts and Telecommunications. In 2023, he obtained a master degree from Jiangsu University of Science and Technology; His research interests include: AI security
+	Cai Jinyan is a doctoral student of Beijing University of Posts and Telecommunications. In 2023, he obtained a master degree from Jiangsu University of Science and Technology; His research interests include: AI security
 
 ### Ma dongyu
 	Ma Dongyu is a master student of Beijing University of Posts and Telecommunications. In 2021, she obtained a bachelor degree from Dalian Jiaotong University; Research interests include: program analysis, penetration testing.
@@ -119,15 +119,15 @@ Li Xiangyu, Master, ICBC
 
 ## (Part of) Publications 
 
-- Hongliang Liang, Xiangyu Li, Da Xiao, Jie Liu, Yanjie Zhou, Aibo Wang, Jin Li: Generative Pre-Trained Transformer-Based Reinforcement Learning for Testing Web Application Firewalls. IEEE Trans. Dependable Secur. Comput. 21(1): 309-324 (2024)
-- Hongliang Liang, Xinglin Yu, Xianglin Cheng, Jie Liu, Jin Li: Multiple Targets Directed Greybox Fuzzing. IEEE Trans. Dependable Secur. Comput. 21(1): 325-339 (2024)
+- Hongliang Liang, Xiangyu Li, Da Xiao, Jie Liu, Yanjie Zhou, Aibo Wang, Jin Li: Generative Pre-Trained Transformer-Based Reinforcement Learning for Testing Web Application Firewalls. IEEE TDSC 21(1): 309-324 (2024)
+- Hongliang Liang, Xinglin Yu, Xianglin Cheng, Jie Liu, Jin Li: Multiple Targets Directed Greybox Fuzzing. IEEE TDSC 21(1): 325-339 (2024)
 - Chunlin Wang, Hongliang Liang: Value Peripheral Register Values for Fuzzing MCU Firmware. ISSRE 2023: 718-729
-- Da Xiao, Dengji Hang, Lu Ai, Shengping Li, Hongliang Liang: Path context augmented statement and network for learning programs. Empir. Softw. Eng. 27(2): 37 (2022)
-- Hongliang Liang, Dengji Hang, Xiangyu Li: Modeling function-level interactions for file-level bug localization. Empir. Softw. Eng. 27(7): 186 (2022)
-- Hongliang Liang, Mingyu Li, Yixiu Chen, Tianqi Yang, Zhuosi Xie, Lin Jiang: Architectural Protection of Trusted System Services for SGX Enclaves in Cloud Computing. IEEE Trans. Cloud Comput. 9(3): 910-922 (2021)
+- Da Xiao, Dengji Hang, Lu Ai, Shengping Li, Hongliang Liang: Path context augmented statement and network for learning programs. ESE 27(2): 37 (2022)
+- Hongliang Liang, Dengji Hang, Xiangyu Li: Modeling function-level interactions for file-level bug localization. ESE 27(7): 186 (2022)
+- Hongliang Liang, Mingyu Li, Yixiu Chen, Tianqi Yang, Zhuosi Xie, Lin Jiang: Architectural Protection of Trusted System Services for SGX Enclaves in Cloud Computing. IEEE TCC 9(3): 910-922 (2021)
 - Hongliang Liang, Lu Ai: AST-path Based Compare-Aggregate Network for Code Clone Detection. IJCNN 2021: 1-8
-- Hongliang Liang, Zhuosi Xie, Yixiu Chen, Hua Ning, Jianli Wang: FIT: Inspect vulnerabilities in cross-architecture firmware by deep learning and bipartite matching. Comput. Secur. 99: 102032 (2020)
-- Hongliang Liang, Mingyu Li, Yixiu Chen, Lin Jiang, Zhuosi Xie, Tianqi Yang: Establishing Trusted I/O Paths for SGX Client Systems With Aurora. IEEE Trans. Inf. Forensics Secur. 15: 1589-1600 (2020)
+- Hongliang Liang, Zhuosi Xie, Yixiu Chen, Hua Ning, Jianli Wang: FIT: Inspect vulnerabilities in cross-architecture firmware by deep learning and bipartite matching. COSE 99: 102032 (2020)
+- Hongliang Liang, Mingyu Li, Yixiu Chen, Lin Jiang, Zhuosi Xie, Tianqi Yang: Establishing Trusted I/O Paths for SGX Client Systems With Aurora. IEEE TIFS 15: 1589-1600 (2020)
 - Hongliang Liang, Wenqing Yu, Lu Ai, Lin Jiang: A Practical Concolic Execution Technique for Large Scale Software Systems. EASE 2020: 312-317
 - Hongliang Liang, Yixiu Chen, Zhuosi Xie, Zhiyi Liang: X-AFL: a kernel fuzzer combining passive and active fuzzing. EuroSec@EuroSys 2020: 13-18
 - Hongliang Liang, Mingyue Li, Jianli Wang: Automated data race bugs addition. EuroSec@EuroSys 2020: 37-42
