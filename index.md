@@ -7,13 +7,13 @@ We think: Software systems are the work of people and should be their friends. T
 
 ## Professors
 ### Liang hongliang <hliang@bupt.edu.cn>
-|--------------------:|:-------------------------|
-|![lhl](./lhl.jpg) |Associate Professor, Doctoral Supervisor and Master Supervisor of Beijing University of Posts and Telecommunications, BUPT <www.bupt.edu.cn>. In 2002, he obtained Ph.D from Software Institute of Chinese Academy of Sciences, ISCAS <www.iscas.ac.cn>; Since 2005, he was an associate professor in ISCAS. Since 2009, he was an associate professor in BUPT. He was a winner of the Beijing Science and Technology Progress Awards (2005), an excellent graduate tutor in ISCAS (2007), and an excellent tutor of innovation and entrepreneurship in BUPT (2016). He supervised more than 70 graduate students and more than 50 undergraduate students, 3 of whom won the national graduate scholarship, 10 of whom won the honors of excellent graduates at the Beijing municipal or university level, and more than 10 of whom won the honors of national DaChuang project. His research interests include: artificial intelligence, operating system, and trusted software.|
-
+<p> <img src="./lhl.jpg" width="400" align="left" /> Associate Professor, Doctoral Supervisor and Master Supervisor of Beijing University of Posts and Telecommunications, BUPT<www.bupt.edu.cn>. In 2002, he obtained Ph.D from Software Institute of Chinese Academy of Sciences, ISCAS<www.iscas.ac.cn>; Since 2005, he was an associate professor in ISCAS. Since 2009, he was an associate professor in BUPT. He was a winner of the Beijing Science and Technology Progress Awards (2005), an excellent graduate tutor in ISCAS (2007), and an excellent tutor of innovation and entrepreneurship in BUPT (2016). He supervised more than 70 graduate students and more than 50 undergraduate students, 3 of whom won the national graduate scholarship, 10 of whom won the honors of excellent graduates at the Beijing municipal or university level, and more than 10 of whom won the honors of national DaChuang project. His research interests include: artificial intelligence, operating system, and trusted software.
+</p>
+ 
 ### Yi qiuping <yiqiuping@bupt.edu.cn>
-|--------------------:|:-------------------------|
-|![yqp](./yiqiuping.jpg) |Associate researcher, Doctoral supervisor and Master supervisor of Beijing University of Posts and Telecommunications BUPT <www.bupt.edu.cn>. In 2016, she obtained a Ph.D from Software Institute of the Chinese Academy of Sciences, ISCAS <www.iscas.ac.cn>; From 2016 to 2017, she worked as a postdoctoral fellow at Texas A&M University in the United States; From 2018 to 2019, she worked as a postdoctoral fellow at Texas State University in the United States; Since 2020, he has been a distinguished associate researcher of Beijing University of Posts and Telecommunications. Her research interests include: program analysis, trusted software, and artificial intelligence security.|
-
+<p> <img src="./yiqiuping.jpg" width="400" align="left" /> Associate researcher, Doctoral supervisor and Master supervisor of Beijing University of Posts and Telecommunications BUPT<www.bupt.edu.cn>. In 2016, she obtained a Ph.D from Software Institute of the Chinese Academy of Sciences, ISCAS<www.iscas.ac.cn>; From 2016 to 2017, she worked as a postdoctoral fellow at Texas A&M University in the United States; From 2018 to 2019, she worked as a postdoctoral fellow at Texas State University in the United States; Since 2020, he has been a distinguished associate researcher of Beijing University of Posts and Telecommunications. Her research interests include: program analysis, trusted software, and artificial intelligence security.|
+</p>
+ 
 ## Current Students
 ### Liu jie
 doctoral student. In 2020, he obtained a master degree from China University of Petroleum (East China); His research interests include vulnerability detection and availability analysis.
