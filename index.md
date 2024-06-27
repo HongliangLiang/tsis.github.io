@@ -7,31 +7,31 @@ We think: Software systems are the work of people and should be their friends. T
 
 ## Professors
 ### Liang hongliang <hliang@bupt.edu.cn>
-<p> <img src="./lhl.jpg" width="400" align="left" /> Associate Professor, Doctoral Supervisor and Master Supervisor of Beijing University of Posts and Telecommunications, BUPT<www.bupt.edu.cn>. In 2002, he obtained Ph.D from Software Institute of Chinese Academy of Sciences, ISCAS<www.iscas.ac.cn>; Since 2005, he was an associate professor in ISCAS. Since 2009, he was an associate professor in BUPT. He was a winner of the Beijing Science and Technology Progress Awards (2005), an excellent graduate tutor in ISCAS (2007), and an excellent tutor of innovation and entrepreneurship in BUPT (2016). He supervised more than 70 graduate students and more than 50 undergraduate students, 3 of whom won the national graduate scholarship, 10 of whom won the honors of excellent graduates at the Beijing municipal or university level, and more than 10 of whom won the honors of national DaChuang project. His research interests include: artificial intelligence, operating system, and trusted software.
+<p> <img src="./lhl.jpg" width="200" align="left" /> Associate Professor, Doctoral Supervisor and Master Supervisor of Beijing University of Posts and Telecommunications, BUPT<www.bupt.edu.cn>. In 2002, he obtained Ph.D from Software Institute of Chinese Academy of Sciences, ISCAS<www.iscas.ac.cn>; Since 2005, he was an associate professor in ISCAS. Since 2009, he was an associate professor in BUPT. He was a winner of the Beijing Science and Technology Progress Awards (2005), an excellent graduate tutor in ISCAS (2007), and an excellent tutor of innovation and entrepreneurship in BUPT (2016). He supervised more than 70 graduate students and more than 50 undergraduate students, 3 of whom won the national graduate scholarship, 10 of whom won the honors of excellent graduates at the Beijing municipal or university level, and more than 10 of whom won the honors of national DaChuang project. His research interests include: artificial intelligence, operating system, and trusted software.
 </p>
  
 ### Yi qiuping <yiqiuping@bupt.edu.cn>
-<p> <img src="./yiqiuping.jpg" width="400" align="left" /> Associate researcher, Doctoral supervisor and Master supervisor of Beijing University of Posts and Telecommunications BUPT<www.bupt.edu.cn>. In 2016, she obtained a Ph.D from Software Institute of the Chinese Academy of Sciences, ISCAS<www.iscas.ac.cn>; From 2016 to 2017, she worked as a postdoctoral fellow at Texas A&M University in the United States; From 2018 to 2019, she worked as a postdoctoral fellow at Texas State University in the United States; Since 2020, he has been a distinguished associate researcher of Beijing University of Posts and Telecommunications. Her research interests include: program analysis, trusted software, and artificial intelligence security.|
+<p> <img src="./yiqiuping.jpg" width="200" align="left" /> Associate researcher, Doctoral supervisor and Master supervisor of Beijing University of Posts and Telecommunications BUPT<www.bupt.edu.cn>. In 2016, she obtained a Ph.D from Software Institute of the Chinese Academy of Sciences, ISCAS<www.iscas.ac.cn>; From 2016 to 2017, she worked as a postdoctoral fellow at Texas A&M University in the United States; From 2018 to 2019, she worked as a postdoctoral fellow at Texas State University in the United States; Since 2020, he has been a distinguished associate researcher of Beijing University of Posts and Telecommunications. Her research interests include: program analysis, trusted software, and artificial intelligence security.
 </p>
  
 ## Current Students
 ### Liu jie
-doctoral student. In 2020, he obtained a master degree from China University of Petroleum (East China); His research interests include vulnerability detection and availability analysis.
+doctoral student. In 2020, he obtained a master degree from China University of Petroleum (East China); His research interests include vulnerability detection and exploitabiliy analysis.
  
 ### Wu guohao
-doctoral student. In 2021, he obtained a master degree from Chongqing University; His research interests include: embedded system simulation, embedded firmware vulnerability mining
+doctoral student. In 2021, he obtained a master degree from Chongqing University; His research interests include: embedded system simulation, embedded firmware vulnerability mining.
  
 ### Li zhuang
-doctoral student. In 2022, he studied in the School of Computer Science, Beijing University of Posts and Telecommunications; His research interests include: black box and gray box fuzzy testing; Symbol execution; CSA
+doctoral student. In 2022, he studied in the School of Computer Science, Beijing University of Posts and Telecommunications; His research interests include: black box and gray box fuzzing, symbolic execution and CSA.
 
 ### Cai jinyan
-doctoral student. In 2023, he obtained a master degree from Jiangsu University of Science and Technology; His research interests include: AI security
+doctoral student. In 2023, he obtained a master degree from Jiangsu University of Science and Technology; His research interests include: AI security.
 
 ### Ma dongyu
-master student. In 2021, she obtained a bachelor degree from Dalian Jiaotong University; Research interests include: program analysis, penetration testing.
+master student. In 2021, she obtained a bachelor degree from Dalian Jiaotong University; her research interests include: program analysis, penetration testing.
 
 ### Wang chunlin
-master student. In 2020, he obtained a bachelor degree from Qingdao University of Science and Technology; Research interests include system simulation and program analysis.
+master student. In 2020, he obtained a bachelor degree from Qingdao University of Science and Technology; his research interests include system simulation and program analysis.
 
 ### Yu xinglin
 master student. In 2021, he obtained a bachelor degree from Qingdao University of Technology; Research interests include: program analysis, fuzzy testing.
@@ -49,37 +49,37 @@ master student.  In 2021, he obtained a bachelor degree from Northwestern Polyte
 master student.  In 2022, he obtained a bachelor degree from Shandong University of Science and Technology; Research interests include: program analysis.
 
 ### Liao kailai
-master student.  In 2021, he obtained a bachelor degree from Nankai University; Research interests include: embedded simulation.
+master student.  In 2021, he obtained a bachelor degree from Nankai University; Research interests include: embedded system simulation.
 
 ### Yin luming
-master student.  In 2022, he obtained a bachelor degree from Guangxi University; Research interests include: KLEE, CSA.
+master student.  In 2022, he obtained a bachelor degree from Guangxi University; Research interests include: program analysis.
 
 ### Li huaijin
-master student.  In 2022, he obtained a bachelor degree from Beijing Technology and Business University; Research interests include: embedded simulation.
+master student.  In 2022, he obtained a bachelor degree from Beijing Technology and Business University; Research interests include: embedded system simulation.
 
 ### Liu shenghan
-master student.  In 2022, he obtained a bachelor degree from Zhengzhou University; Research interests include symbol execution and fuzzy testing.
+master student.  In 2022, he obtained a bachelor degree from Zhengzhou University; Research interests include symbolic execution and fuzzing.
 
 ### Zhang zheng
 master student. He received a bachelor degree from Beijing University of Science and Technology in 2022; Research interests include: vulnerability mining, natural language processing.
 
 ### Sun meijing
-master student.  In 2021, she obtained a bachelor degree from Tianjin University of Finance and Economics; Research interests include: program analysis
+master student.  In 2021, she obtained a bachelor degree from Tianjin University of Finance and Economics; Research interests include: program analysis.
 
 ### Du pengbo
-master student.  In 2023, he obtained a bachelor degree from Harbin Engineering University; Research interests include symbol execution and fuzzy testing.
+master student.  In 2023, he obtained a bachelor degree from Harbin Engineering University; Research interests include symbolic execution and fuzzing.
 
 ### Zou shun
-master student.  In 2022, he obtained a bachelor degree from China University of Petroleum; Research interests include: embedded system simulation, vulnerability mining.
+master student.  In 2022, he obtained a bachelor degree from China University of Petroleum; Research interests include: embedded system simulation and vulnerability mining.
 
 ### Li yuxiang
 master student.  In 2023, he obtained a bachelor degree from Jimei University; Research interests include: program analysis.
 
 ### Jiang liuyang
-master student.  In 2023, he obtained a bachelor degree from Henan University; Research interests include: system simulation, program analysis
+master student.  In 2023, he obtained a bachelor degree from Henan University; Research interests include: system simulation, program analysis.
 
 ### Zhao weihao
-master student.  In 2022, he obtained a bachelor degree from Yanshan University; Research interests include: system simulation, program analysis
+master student.  In 2022, he obtained a bachelor degree from Yanshan University; Research interests include: system simulation, program analysis.
 
 ## Graduated Fellows
 
