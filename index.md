@@ -1,8 +1,8 @@
 # Trusted Software and Intelligent System Lab.
 
-TSIS Lab aims to tap the potential of students, cultivate outstanding talents, and contribute to serving the society.
+TSIS Lab aims to tap the potentials of students, cultivate outstanding talents, and contribute to serving the society.
 
-We think: Software systems are the work of people and should be their friends. They should be as correct, secure, reliable and intelligent as possible. Compared with the upper applications, the above characteristics of the fundamental software of modern computing and communication platforms are particularly important.
+Our goal: Software systems are artifacts of people and should be friends of people. Therefore, they should be as **correct, secure, reliable and intelligent** as possible. Compared with the upper applications, the above characteristics of the **fundamental software systems** for modern computing and communication are particularly important.
 
 
 ## Professors
@@ -83,6 +83,7 @@ master student.  In 2023, he obtained a bachelor degree from Henan University; R
 ### Zhao weihao
 master student.  In 2022, he obtained a bachelor degree from Yanshan University; Research interests include: system simulation, program analysis.
 
+
 ## Graduated Fellows
 
 Pan Xuejian, Master, Microsoft (USA)
@@ -117,7 +118,7 @@ Hu Wenying, Master, Micro-Strategy Technology
 
 Pei Xiaoxiao, Master, IBM
 
-Liu Weiwei, Master, Institute of Information Engineering, Chinese Academy of Sciences
+Liu Shirun, Master, Institute of Information Engineering, Chinese Academy of Sciences
 
 Li Zhengyu, Master, China Merchants Bank
 
@@ -140,6 +141,7 @@ Wei JinYi, Master, Bank of Nanjing
 Guo Zihui, Master, Huawei
 
 Li Xiangyu, Master, ICBC
+
 
 ## (Part of) Publications 
 
